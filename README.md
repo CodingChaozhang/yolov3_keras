@@ -33,7 +33,7 @@ yolo3-keras的源码，可以用于训练自己的模型yolov3以及yolov3-tiny
 
 	在命令行输入图片地址`img/mask.jpg`，即可预测
 
-	![img](img/mask_out.jpg)
+	![img](img/mask_output.jpg)
 
 
 ## 三、训练自身数据
