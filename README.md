@@ -50,8 +50,8 @@ yolo3-keras的源码，可以用于训练自己的模型yolov3以及yolov3-tiny
 VOCdevkit
 	-VOC2007
 		├─ImageSets    # 存放数据集列表文件，由voc2yolo3.py文件生成
-		├─Annotations  # 存放数据集中图片文件
-		├─JPEGImages   # 存放图片标签，xml 格式
+		├─Annotations  # 存放图片标签，xml 格式
+		├─JPEGImages   # 存放数据集中图片文件
 		└─voc2yolo3.py # 用来生成数据集列表文件
  ```
 
